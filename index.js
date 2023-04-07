@@ -20,7 +20,7 @@ first_button.addEventListener("click", function () {
       currentaudio.pause();
     }
   
-    var audio1 = new Audio("sounds/1.mp3");
+    var audio1 = new Audio("sounds/0.mp3");
   
     currentaudio = audio1;
     audio1.play();
